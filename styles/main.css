@@ -1,0 +1,41 @@
+/* main */
+main {width: 1150px; margin: 0 auto;}
+main .bnr {
+    display: flex; flex-flow: row nowrap; justify-content: space-between;
+}
+main .bnr .img_left {}
+main .bnr .img_left a {
+    
+}
+main .bnr .img_left a img {
+    width: 100%; position: relative;
+}
+main .bnr .img_left button {
+    position: absolute; top: 325px;
+    background-color: #1e6cb3; color: #fff;
+    border: 0; padding: 5px 7px; border-radius: 5px;
+}
+main .bnr .img_right {
+    display: flex; flex-flow: column nowrap;
+    justify-content: space-between; 
+}
+main .bnr .img_right1 a {}
+main .bnr .img_right1 a img {
+}
+main .bnr .img_right1 .text{
+    display: flex; flex-flow: row nowrap;
+    justify-content: center;
+}
+main .bnr .img_right1 .text .text_top p {
+    display: flex; flex-flow: column nowrap;
+}
+main .bnr .img_right1 .text .text_top p span {
+}
+main .bnr .img_right1 .text .text_bottom p {
+    display: flex; flex-flow: column nowrap;
+
+}
+main .bnr .img_right1 .text .text_bottom p span {}
+
+main .bnr .img_right2 a {}
+main .bnr .img_right2 a img {}
